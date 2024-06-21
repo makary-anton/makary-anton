@@ -7,8 +7,8 @@
 
 Hi, I'm Makary Anton, Front-End Developer from Egypt.
 
-- 🐳 VueJs Dev , 
-- 🐱‍🏍 UI Dev (HTML5, SASS, JS) ,
+- 🐳 Vue.js and React.js Developer, 
+- 🐱‍🏍 UI Dev (HTML5, SASS, JS),
 - 💻 Self-taught Programmer.
 - 📫 You can reach me on : makaryanton1@gmail.com
 
@@ -22,23 +22,39 @@ Hi, I'm Makary Anton, Front-End Developer from Egypt.
 - Semantic HTML
 - CSS3(SASS preprocessor)
 - JavaScript(ES6, OOP)
+- TypeScript
 - JQuery
 - Bootstrap4(v5 Alpha)
+- Tailwind.css
 - Foundation
 - PWA
 - SEO Princeplce
 
 # Frameworks
-- Vue js
-- Angular(Knowledge)
+- Vue.js
+- React
 
 # Bundling Tools
+- Vite
 - Gulp
 - Webpack
+
+# Testing Tools
+- Cypress
+- Jest
 
 # Source Control
 - GitHub
 - TFS
+
+# Concepts
+- Microservices
+- Design pattern
+- Clean code
+- Agile
+- Performance Optimization
+- Responsive Design
+- Cross-Browser Compatibility, Web Accessibility
 
 # Platforms
 - Windows
